@@ -4,6 +4,6 @@ public class testModuel {
         ModuleB moduleB = new ModuleB();
         moduleB.setModuelA(moduelA);
         System.out.println("计科182梓浩哥");
-        System.out.println(moduleB.operate("88","88888"));
+        System.out.println(moduleB.operate("123","123456"));
     }
 }
