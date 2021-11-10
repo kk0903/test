@@ -3,7 +3,7 @@ public class testModuel {
         ModuelA moduelA = new ModuelA();
         ModuleB moduleB = new ModuleB();
         moduleB.setModuelA(moduelA);
-        System.out.println("测试一："+moduleB.operate("78","78787"));
-        System.out.println("测试二："+moduleB.operate("chenjinhan","chenjinhan"));
+        System.out.println("测试一："+moduleB.operate("45","45564"));
+        System.out.println("测试二："+moduleB.operate(" zhuoyipeng"," zhuoyipeng"));
     }
 }
